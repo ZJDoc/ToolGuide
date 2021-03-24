@@ -38,3 +38,14 @@ extra_javascript:
 # 导航
 nav:
     - Home: index.md
+    - 建模:
+      - UML:
+        - 统一建模语言UML: uml/统一建模语言UML.md
+        - '[译][wiki]Class-Diagram': uml/Class-Diagram.md
+        - 类图小结: uml/类图小结.md
+      - PlantUML:
+        - 'PlantUML简介': './uml/plantuml/PlantUML简介.md'
+        - '本地安装和使用': './uml/plantuml/本地安装和使用.md'
+        - 'VSCode插件使用': './uml/plantuml/VSCode插件使用.md'
+        - '常用命令': './uml/plantuml/常用命令.md'
+        - '类图使用': './uml/plantuml/类图使用.md'
