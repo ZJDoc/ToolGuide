@@ -111,3 +111,12 @@ nav:
         - '[Ubuntu]android studio配置javah和ndk-build': './android/ndk/[Ubuntu]android studio配置javah和ndk-build.md'
         - '[Ubuntu]NDK配置OpenCV': './android/ndk/[Ubuntu]NDK配置OpenCV.md'
         - 'libopencv_java3.so not found': './android/ndk/libopencv_java3.so not found.md'
+      - TLT:
+        - 引言: './nvidia/tlt/index.md'
+        - 安装: './nvidia/tlt/install.md'
+        - 训练流程: './nvidia/tlt/process.md'
+        - 准备训练数据: './nvidia/tlt/data.md'
+        - 准备预训练模型: './nvidia/tlt/pretrained.md'
+        - 配置文件:
+            - 引言: './nvidia/tlt/specs.md'
+            - 分类任务: './nvidia/tlt/spec-classify.md'
