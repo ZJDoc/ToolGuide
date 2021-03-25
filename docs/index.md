@@ -3,5 +3,7 @@
 * 建模
     * `UML`
     * `PlantUML`
-* `Android`
+* 环境
+    * `Anaconda`
+    * `NodeJS`
     * `NDK`

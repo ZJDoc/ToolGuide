@@ -48,12 +48,29 @@ nav:
         - '本地安装和使用': './uml/plantuml/本地安装和使用.md'
         - 'VSCode插件使用': './uml/plantuml/VSCode插件使用.md'
         - '常用命令': './uml/plantuml/常用命令.md'
-        - '类图使用': './uml/plantuml/类图使用.md'
-    - Android:
+        - '类图使用': './uml/plantuml/类图使用.md'    
+    - 环境:
+      - Anaconda:
+        - '环境查询，安装，卸载，克隆': './anaconda/环境查询，安装，卸载，克隆.md'
+        - 卸载包: anaconda/卸载包.md
+        - '查询、安装指定版本': './anaconda/查询、安装指定版本.md'
+        - 配置国内镜像源: anaconda/配置国内镜像源.md
+        - conda安装环境报错: anaconda/conda安装环境报错.md
+        - '[conda clean]环境清理': './anaconda/[conda clean]环境清理.md'
+        - Miniconda: anaconda/Miniconda.md
+        - 环境迁移: anaconda/环境迁移.md
+      - NodeJS:
+        - nodeJS安装: node/nodeJS安装.md
+        - nodeJS初始化: node/nodeJS初始化.md
+        - npm和cnpm: node/npm和cnpm.md
+        - '[npm]查询': './node/[npm]查询.md'
+        - '[npm]安装': './node/[npm]安装.md'
+        - '[npm]卸载': './node/[npm]卸载.md'
+        - '[package.json]脚本运行': './node/[package.json]脚本运行.md'
+        - '[pkg]打包可执行文件': './node/[pkg]打包可执行文件.md'
       - NDK:
         - NDK开发概述: android/ndk/NDK开发概述.md
         - 'ndk-build编译失败': android/ndk/ndk-build编译失败.md
         - '[Ubuntu]android studio配置javah和ndk-build': './android/ndk/[Ubuntu]android studio配置javah和ndk-build.md'
         - '[Ubuntu]NDK配置OpenCV': './android/ndk/[Ubuntu]NDK配置OpenCV.md'
         - 'libopencv_java3.so not found': './android/ndk/libopencv_java3.so not found.md'
-    
