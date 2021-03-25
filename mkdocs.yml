@@ -48,7 +48,44 @@ nav:
         - '本地安装和使用': './uml/plantuml/本地安装和使用.md'
         - 'VSCode插件使用': './uml/plantuml/VSCode插件使用.md'
         - '常用命令': './uml/plantuml/常用命令.md'
-        - '类图使用': './uml/plantuml/类图使用.md'    
+        - '类图使用': './uml/plantuml/类图使用.md'
+    - 工具:
+      - JetBrains:
+        - '安装': './jetbrains/安装.md'
+        - '学生认证': './jetbrains/学生认证.md'
+        - '文件模板': './jetbrains/文件模板.md'
+        - CLion:
+          - 'OpenCV配置': './jetbrains/clion-OpenCV配置.md'
+          - 'could not load cache': './jetbrains/clion-Error: could not load cache.md'
+        - PyCharm:
+          - '[PyCharm]pytest设置和使用': './jetbrains/pycharm-pytest设置和使用.md'    
+      - Jupyter:
+        - '[conda]JupyterLab安装': './jupyter/[conda]JupyterLab安装.md'
+        - '远程访问配置': './jupyter/远程访问配置.md'
+        - '基本功能介绍': './jupyter/基本功能介绍.md'
+        - '[PEP8]代码格式化': './jupyter/[PEP8]代码格式化.md'
+        - '目录生成插件': './jupyter/目录生成插件.md'
+      - VSCode: 
+        - Home: './vscode/index.md'
+        - 系统:
+          - '引言': './vscode/system/引言.md'
+          - '安装': './vscode/system/安装.md'
+          - '布局': './vscode/system/布局.md'
+          - '用户和工作空间设置': './vscode/system/用户和工作空间设置.md'
+          - '快捷键设置': './vscode/system/快捷键设置.md'
+          - '命令行操作': './vscode/system/命令行操作.md'
+          - '代码片段': './vscode/system/代码片段.md'
+          - 'tab键失效': './vscode/system/tab键失效.md'
+        - 语言:
+          - 'C++环境配置': './vscode/languages/C++环境配置.md'
+          - 'Python环境配置': './vscode/languages/Python环境配置.md'
+          - '[OpenCV 3.4.2]pylint检测错误': './vscode/languages/[OpenCV 3.4.2]pylint检测错误.md'
+        - 插件:
+          - 'Git设置': './vscode/extensions/git设置.md'
+          - '[SSH]远程服务配置': './vscode/extensions/[SSH]远程服务配置.md'
+          - '[GitLens]无法打开': './vscode/extensions/gitlens-无法打开.md'
+        - 自定义:
+          - 显示隐藏文件: vscode/custom/显示隐藏文件.md
     - 环境:
       - Anaconda:
         - '环境查询，安装，卸载，克隆': './anaconda/环境查询，安装，卸载，克隆.md'
