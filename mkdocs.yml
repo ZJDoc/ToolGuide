@@ -49,3 +49,11 @@ nav:
         - 'VSCode插件使用': './uml/plantuml/VSCode插件使用.md'
         - '常用命令': './uml/plantuml/常用命令.md'
         - '类图使用': './uml/plantuml/类图使用.md'
+    - Android:
+      - NDK:
+        - NDK开发概述: android/ndk/NDK开发概述.md
+        - 'ndk-build编译失败': android/ndk/ndk-build编译失败.md
+        - '[Ubuntu]android studio配置javah和ndk-build': './android/ndk/[Ubuntu]android studio配置javah和ndk-build.md'
+        - '[Ubuntu]NDK配置OpenCV': './android/ndk/[Ubuntu]NDK配置OpenCV.md'
+        - 'libopencv_java3.so not found': './android/ndk/libopencv_java3.so not found.md'
+    
