@@ -84,6 +84,7 @@ nav:
           - 'Git设置': './vscode/extensions/git设置.md'
           - '[SSH]远程服务配置': './vscode/extensions/[SSH]远程服务配置.md'
           - '[GitLens]无法打开': './vscode/extensions/gitlens-无法打开.md'
+          - 'Commit Message Editor': vscode/extensions/commit-message-editor.md
         - 自定义:
           - 显示隐藏文件: vscode/custom/显示隐藏文件.md
     - 环境:
