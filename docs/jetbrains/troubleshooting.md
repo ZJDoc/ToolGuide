@@ -1,5 +1,7 @@
 
-# [Clion]Error: could not load cache
+# 问题解答
+
+## 问题一：[Clion]Error: could not load cache
 
 误删文件夹`cmake-build-debug`g后，重新运行提示错误：
 
@@ -14,3 +16,7 @@
 参考：[Cmake Error: could not load cache](https://stackoverflow.com/questions/16319292/cmake-error-could-not-load-cache)
 
 点击菜单栏`Tools->CMake->Reload CMake Project`s，问题解决
+
+## 问题二：Pycharm进入debug模式后一直显示collecting data
+
+参考：[Pycharm进入debug模式后一直显示collecting data的解决办法](https://blog.csdn.net/renhanchi/article/details/106010591)

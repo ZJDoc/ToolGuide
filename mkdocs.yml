@@ -54,9 +54,9 @@ nav:
         - '安装': './jetbrains/安装.md'
         - '学生认证': './jetbrains/学生认证.md'
         - '文件模板': './jetbrains/文件模板.md'
+        - '问题解答': './jetbrains/troubleshooting.md'
         - CLion:
           - 'OpenCV配置': './jetbrains/clion-OpenCV配置.md'
-          - 'could not load cache': './jetbrains/clion-Error: could not load cache.md'
         - PyCharm:
           - '[PyCharm]pytest设置和使用': './jetbrains/pycharm-pytest设置和使用.md'    
       - Jupyter:
